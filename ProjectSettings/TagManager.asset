@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trap
+  - Ground
+  - Water
   layers:
   - Default
   - TransparentFX
@@ -44,9 +47,18 @@ TagManager:
   - name: Background
     uniqueID: 1864843329
     locked: 0
-  - name: Player
-    uniqueID: 2476678257
+  - name: Water
+    uniqueID: 3926541271
     locked: 0
   - name: Environment
     uniqueID: 2052622133
+    locked: 0
+  - name: Player
+    uniqueID: 2476678257
+    locked: 0
+  - name: Enemy
+    uniqueID: 2959063835
+    locked: 0
+  - name: Goals
+    uniqueID: 3193517619
     locked: 0
